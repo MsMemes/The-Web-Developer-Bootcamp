@@ -1,0 +1,16 @@
+body {
+	background-color: #e6e6fa;
+}
+
+li {
+	border: 2px solid red;
+}
+
+#last {
+	background-color: purple;
+	color: white;
+}
+
+.completed {
+	text-decoration: line-through;
+}
